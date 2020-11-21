@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background-image: url("b4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img {
+    margin: 0;
+}
+
+nav,
+div {
+    margin: 0;
+    margin-top: 0px;
+}
+
+img-responsive {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+    margin-top: 0px;
+}
