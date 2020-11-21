@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Montserrat&display=swap');
 body {
     margin: 0;
-    background-image: url("b11.png");
+    background-image: url("Untitled\ design.png");
     background-color: white;
     color: #004165;
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@ body {
     margin: 20px;
     font-size: 20px;
 }
-.btn:hover { background-color: #004165; color: white; }
+
 .border {
     background-color: white;
     background-image: url("b7.png");
